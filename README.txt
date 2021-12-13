@@ -1,0 +1,1 @@
+You need phpmyadmin with apache server to watch this folder. Thanks
